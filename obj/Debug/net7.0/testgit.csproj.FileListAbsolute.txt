@@ -1,0 +1,15 @@
+C:\Ruslan\Csharp\projects\testgit\bin\Debug\net7.0\testgit.exe
+C:\Ruslan\Csharp\projects\testgit\bin\Debug\net7.0\testgit.deps.json
+C:\Ruslan\Csharp\projects\testgit\bin\Debug\net7.0\testgit.runtimeconfig.json
+C:\Ruslan\Csharp\projects\testgit\bin\Debug\net7.0\testgit.dll
+C:\Ruslan\Csharp\projects\testgit\bin\Debug\net7.0\testgit.pdb
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.csproj.AssemblyReference.cache
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.AssemblyInfoInputs.cache
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.AssemblyInfo.cs
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.csproj.CoreCompileInputs.cache
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.dll
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\refint\testgit.dll
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.pdb
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\testgit.genruntimeconfig.cache
+C:\Ruslan\Csharp\projects\testgit\obj\Debug\net7.0\ref\testgit.dll
